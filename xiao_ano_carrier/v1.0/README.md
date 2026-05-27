@@ -2,6 +2,8 @@
 
 Manufacturing images for this board revision.
 
+[easyEDA Project](https://oshwlab.com/therebelrobot/project_lahoiudr)
+
 ## Top
 
 ![Top](top.png)
@@ -9,6 +11,10 @@ Manufacturing images for this board revision.
 ## Bottom
 
 ![Bottom](bottom.png)
+
+## Schematic
+
+![Schematic](schematic.webp)
 
 ## Copper Layers
 
